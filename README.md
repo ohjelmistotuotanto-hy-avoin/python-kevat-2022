@@ -1,3 +1,3 @@
-# Syksy 2021
+# Kevät 2022
 
 Laskareissa käytettävä Python-koodi.
